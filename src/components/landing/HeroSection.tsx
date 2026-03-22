@@ -54,10 +54,10 @@ const HeroSection = () => {
           </div>
 
           <div className="flex flex-wrap gap-4 pt-2">
-            <Button variant="hero" size="lg" className="text-base px-8 h-13">
+            <Button variant="hero" size="lg" className="text-base px-8 h-14">
               Start Your Journey
             </Button>
-            <Button variant="hero-outline" size="lg" className="text-base px-8 h-13">
+            <Button variant="hero-outline" size="lg" className="text-base px-8 h-14">
               Watch Demo
             </Button>
           </div>
